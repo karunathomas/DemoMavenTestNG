@@ -8,8 +8,8 @@
       
       <class name="testNGDemo.AssertionClass"/>
       <class name="testNGDemo.DemoWebdriverManagerClass"/>
-      <class name="testNGDemo.HWParellelGoogle"/>-->
-      <class name="testNGDemo.TestNGGoogleTest"/>
+      <class name="testNGDemo.HWParellelGoogle"/>
+      <class name="testNGDemo.TestNGGoogleTest"/>-->
       <class name="testNGDemo.DataProviderToExcel"/>
     </classes>
   </test> <!-- Test -->
