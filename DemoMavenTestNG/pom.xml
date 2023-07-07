@@ -121,7 +121,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>DemoMavenTestNG.Addition</mainClass>
+							<mainClass>DemoMavenTestNG.DemoMavenTestNG.Addition</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
