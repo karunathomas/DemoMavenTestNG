@@ -9,8 +9,9 @@
       <class name="testNGDemo.AssertionClass"/>
       <class name="testNGDemo.DemoWebdriverManagerClass"/>
       <class name="testNGDemo.HWParellelGoogle"/>
-      <class name="testNGDemo.TestNGGoogleTest"/>-->
-      <class name="testNGDemo.DataProviderToExcel"/>
+      <class name="testNGDemo.TestNGGoogleTest"/>
+  	   <class name="testNGDemo.DataProviderToExcel"/>-->
+  	   <class name="demoJava.Addition"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
